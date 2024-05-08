@@ -1,0 +1,60 @@
+sampling_date,state,location,type,Sulfur Dioxide(So2),Nitrogen Dioxide (No2),Respirable Suspended Particulate Matter ,Suspended Particulate Matter,PM_2.5,date
+February - M021990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",4.8,17.4,78.18282385,200.2603783,15.2,01-02-1990
+February - M021990,Andhra Pradesh,Hyderabad,Industrial Area,3.1,7,78.18282385,200.2603783,20.5,01-02-1990
+February - M021990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",6.2,28.5,78.18282385,200.2603783,18.7,01-02-1990
+March - M031990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",6.3,14.7,78.18282385,200.2603783,14,01-03-1990
+March - M031990,Andhra Pradesh,Hyderabad,Industrial Area,4.7,7.5,78.18282385,200.2603783,22.3,01-03-1990
+March - M031990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",6.4,25.7,78.18282385,200.2603783,17.8,01-03-1990
+April - M041990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",5.4,17.1,78.18282385,200.2603783,16.5,01-04-1990
+April - M041990,Andhra Pradesh,Hyderabad,Industrial Area,4.7,8.7,78.18282385,200.2603783,19.2,01-04-1990
+April - M041990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",4.2,23,78.18282385,200.2603783,21,01-04-1990
+May - M051990,Andhra Pradesh,Hyderabad,Industrial Area,4,8.9,78.18282385,200.2603783,19.91388889,01-05-1990
+May - M051990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",3.6,18.6,78.18282385,200.2603783,20.22555556,01-05-1990
+June - M061990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",3.9,14.1,78.18282385,133,20.53722222,01-06-1990
+June - M061990,Andhra Pradesh,Hyderabad,Industrial Area,5.6,11.8,78.18282385,82,20.84888889,01-06-1990
+June - M061990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",3.3,19.3,78.18282385,111,21.16055556,01-06-1990
+July - M071990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",3.9,8.2,78.18282385,118,21.47222222,01-07-1990
+July - M071990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",3.5,12.1,78.18282385,135,21.78388889,01-07-1990
+July - M071990,Andhra Pradesh,Hyderabad,Industrial Area,7.9,10.2,78.18282385,80,22.09555556,01-07-1990
+August - M081990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",4,9.9,78.18282385,179,22.40722222,01-08-1990
+August - M081990,Andhra Pradesh,Hyderabad,Industrial Area,12.4,11.5,78.18282385,58,22.71888889,01-08-1990
+August - M081990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",4,12.3,78.18282385,99,23.03055556,01-08-1990
+September - M091990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",6.3,11.5,78.18282385,270,23.34222222,01-09-1990
+September - M091990,Andhra Pradesh,Hyderabad,Industrial Area,44.8,13.7,78.18282385,97,23.65388889,01-09-1990
+September - M091990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",8.1,17.8,78.18282385,167,23.96555556,01-09-1990
+October - M101990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",7.7,11.3,78.18282385,145,24.27722222,01-10-1990
+October - M101990,Andhra Pradesh,Hyderabad,Industrial Area,20.6,13.6,78.18282385,75,24.58888889,01-10-1990
+October - M101990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",20.4,27.5,78.18282385,212,24.90055556,01-10-1990
+November - M111990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",13.9,7.2,78.18282385,93,25.21222222,01-11-1990
+November - M111990,Andhra Pradesh,Hyderabad,Industrial Area,11.2,18.6,78.18282385,61,25.52388889,01-11-1990
+November - M111990,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",22.3,35.9,78.18282385,255,25.83555556,01-11-1990
+January - M011991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",24.5,28,78.18282385,197,26.14722222,01-01-1991
+January - M011991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",7.2,10.4,78.18282385,148,26.45888889,01-01-1991
+January - M011991,Andhra Pradesh,Hyderabad,Industrial Area,28.7,16.2,78.18282385,77,26.77055556,01-01-1991
+February - M021991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",18.7,42.2,78.18282385,125,27.08222222,01-02-1991
+February - M021991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",24.5,18,78.18282385,330,27.39388889,01-02-1991
+February - M021991,Andhra Pradesh,Hyderabad,Industrial Area,20.4,12.6,78.18282385,93,27.70555556,01-02-1991
+March - M031991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",5.2,41.3,78.18282385,287,28.01722222,01-03-1991
+March - M031991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",7.5,12.2,78.18282385,241,28.32888889,01-03-1991
+March - M031991,Andhra Pradesh,Hyderabad,Industrial Area,4.8,8.4,78.18282385,85,28.64055556,01-03-1991
+April - M041991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",8.5,48.5,78.18282385,200.2603783,28.95222222,01-04-1991
+April - M041991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",9.7,12.4,78.18282385,283,29.26388889,01-04-1991
+April - M041991,Andhra Pradesh,Hyderabad,Industrial Area,21.2,11.5,78.18282385,108,29.57555556,01-04-1991
+May - M051991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",4.9,15.3,78.18282385,234,29.88722222,01-05-1991
+May - M051991,Andhra Pradesh,Hyderabad,Industrial Area,17.7,14,78.18282385,121,30.19888889,01-05-1991
+May - M051991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",12.3,38.6,78.18282385,219,30.51055556,01-05-1991
+June - M061991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",3.5,11.9,78.18282385,179,30.82222222,01-06-1991
+June - M061991,Andhra Pradesh,Hyderabad,Industrial Area,3.1,7.5,78.18282385,84,31.13388889,01-06-1991
+June - M061991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",3,19,78.18282385,154,31.44555556,01-06-1991
+July - M071991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",6.2,10,78.18282385,150,31.75722222,01-07-1991
+July - M071991,Andhra Pradesh,Hyderabad,Industrial Area,7.9,9.2,78.18282385,67,32.06888889,01-07-1991
+July - M071991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",6.5,17.3,78.18282385,128,32.38055556,01-07-1991
+August - M081991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",8.5,12.5,78.18282385,119,32.69222222,01-08-1991
+August - M081991,Andhra Pradesh,Hyderabad,Industrial Area,7.8,9.8,78.18282385,71,33.00388889,01-08-1991
+August - M081991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",6.5,12.6,78.18282385,98,33.31555556,01-08-1991
+September - M091991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",6.6,12.7,78.18282385,172,33.62722222,01-09-1991
+September - M091991,Andhra Pradesh,Hyderabad,Industrial Area,13.3,11.9,78.18282385,56,33.93888889,01-09-1991
+September - M091991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",6,23.4,78.18282385,120,34.25055556,01-09-1991
+October - M101991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",8.5,15.5,78.18282385,135,34.56222222,01-10-1991
+October - M101991,Andhra Pradesh,Hyderabad,Industrial Area,12.3,12.2,78.18282385,83,34.87388889,01-10-1991
+October - M101991,Andhra Pradesh,Hyderabad,"Residential, Rural and other Areas",6.2,25.7,78.18282385,158,35.18555556,01-10-1991
